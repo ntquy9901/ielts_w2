@@ -118,6 +118,7 @@ class AgentWT2:
         self.explain_metric = criteria
         self.system_prompt = self.get_system_prompt(criteria)
         self.clear_messages()
+        print("==test: change_system_prompt_criteria")   
         
     
     def _check_score_valid(self, check_int=False):
