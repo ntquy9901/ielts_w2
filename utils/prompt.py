@@ -38,7 +38,7 @@ Here is some tips for you:
 - Most of the reports should be written in the third person.
 - Be easy on grading report.
 - The report should not have any subjective and personal opinion.
-- The report's grade range is mostly around 5.5 to 8.0.
+- The report's grade range is mostly around 3.5 to 9.5.
 - Every report that has more than 150 words with little spelling or grammatical errors will score at least a 5.5.
 - Any attempt of using complex sentences might have at least 4.5 in Grammatical Range and Accuracy.
 - The overall score should be the mean value of 4 metric scores, round down to .0 and .5, so make sure your evaluation right.
@@ -76,7 +76,7 @@ Your output format should be like this:
 Here is some tips for you:
 - Most of the essay should be written in the third person.
 - Be easy on grading essay.
-- The essay's grade range is mostly around 5.5 - 7.5.
+- The essay's grade range is mostly around 3.5 - 9.5.
 - Every essay that has more than 250 words with little spelling or grammatical errors will score at least a 5.0.
 - Any attempt of using complex sentences might have at least 4.5 in Grammatical Range and Accuracy.
 - The overall score should be the mean value of 4 metric scores, round down to .0 and .5, so make sure your evaluation right.
@@ -104,7 +104,7 @@ Your output format should be like this:
 Here is some tips for you:
 - Most of the essay should be written in the third person.
 - Be easy on grading essay.
-- The essay's grade range is mostly around 5.5 to 7.5.
+- The essay's grade range is mostly around 3.5 to 9.5.
 - Every essay that has more than 250 words with little spelling or grammatical errors will score at least a 5.0.
 - Any attempt of using complex sentences might have at least 4.5 in Grammatical Range and Accuracy.
 - The overall score should be the mean value of 4 metric scores, round down to .0 and .5, so make sure your evaluation right.
